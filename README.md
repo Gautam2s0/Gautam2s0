@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gautam2s0
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning full satck web development
+- 🌱 I’m currently learning React
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me gautamsonkar334@gmail.com
 
