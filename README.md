@@ -11,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/gautam sonkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautam sonkar" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/gautam sonkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gautam sonkar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gautam-sonkar-330899199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautam-sonkar-330899199" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/gautamsonkar334" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gautamsonkar334" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/gauti20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gauti20" height="30" width="40" /></a>
 </p>
 
