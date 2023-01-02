@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gautam2s0</h1>
-<h3 align="center">A passionate full stack web developer from India</h3>
+<h3 align="center">Analytical and detailed-oriented aspiring Full-Stackweb developer. Collaborative, team playerwho ispro</h3>
 
 - 🔭 I’m currently working on [proper-loaf-7097](https://github.com/Gautam2s0/proper-loaf-7097)
 
