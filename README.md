@@ -1,4 +1,5 @@
-<img src="https://images.ctfassets.net/aq13lwl6616q/26YihBS082ssqu55s02tHb/827b9471c4660d9716d7a896b25dc204/Become_a_React_Developer.jpg"/>
+<h1>Student of Masai School !</h1>
+<img src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/167121800/original/91edbdbc9875196cc50f56337f4e1aea00534b12/your-awesome-mern-stack-developer.jpg"/>
 <h1 align="center">Hi 👋, I'm Gautam2s0</h1>
 <h3 align="center">Analytical and detailed-oriented aspiring Full-Stack web developer.</h3>
 
