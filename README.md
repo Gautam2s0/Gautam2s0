@@ -1,6 +1,7 @@
 <h1>Student of Masai School !</h1>
 <img src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/167121800/original/91edbdbc9875196cc50f56337f4e1aea00534b12/your-awesome-mern-stack-developer.jpg"/>
 
+<div style={display:"flex"}>
 <div align="left">
   <h1 align="center">Hi 👋, I'm Gautam Sonkar</h1>
 <h3 align="center">Analytical and detailed-oriented aspiring Full-Stack web developer.</h3>
@@ -21,6 +22,7 @@
 <div align="right">
   <img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4iH8eZrbM0bx2_bYCaV3n8mWwkHKZQTIfEw&usqp=CAU"/>
 <img width="200px" src="https://miro.medium.com/max/1400/1*sUI4nkPfH0wevBQMb29cnQ.jpeg"/>
+</div>
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
