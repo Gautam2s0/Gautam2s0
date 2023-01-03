@@ -7,6 +7,8 @@
 - 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **react,redux**
+- 🌱 Developing myself from scratch in this tech field
+- 🌱 I’m actively looking for opportunities**
 
 - 📫 How to reach me **gautamsonkar334@gmail.com**
 
