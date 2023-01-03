@@ -1,3 +1,4 @@
+<img src="https://images.ctfassets.net/aq13lwl6616q/26YihBS082ssqu55s02tHb/827b9471c4660d9716d7a896b25dc204/Become_a_React_Developer.jpg"/>
 <h1 align="center">Hi 👋, I'm Gautam2s0</h1>
 <h3 align="center">Analytical and detailed-oriented aspiring Full-Stack web developer.</h3>
 
