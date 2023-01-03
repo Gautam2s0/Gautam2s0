@@ -1,6 +1,6 @@
 <h1>Student of Masai School !</h1>
 <img src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/167121800/original/91edbdbc9875196cc50f56337f4e1aea00534b12/your-awesome-mern-stack-developer.jpg"/>
-<h1 align="center">Hi 👋, I'm Gautam2s0</h1>
+<h1 align="center">Hi 👋, I'm Gautam Sonkar</h1>
 <h3 align="center">Analytical and detailed-oriented aspiring Full-Stack web developer.</h3>
 
 - 🔭 I’m currently working on [proper-loaf-7097](https://github.com/Gautam2s0/proper-loaf-7097)
