@@ -18,7 +18,10 @@
 - <a href="https://drive.google.com/file/d/1u3UPEmHehn0jkOfzhrUcpVFlKvQQnUpP/view?usp=sharing">Resume</a>
 - <a href="https://www.linkedin.com/in/gautam-sonkar-330899199/">Linkedin</a>
 </div>
-<div align="right">ooppdfjngnj</div>
+<div align="right">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4iH8eZrbM0bx2_bYCaV3n8mWwkHKZQTIfEw&usqp=CAU"/>
+<img src="https://miro.medium.com/max/1400/1*sUI4nkPfH0wevBQMb29cnQ.jpeg"/>
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gautam-sonkar-330899199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautam-sonkar-330899199" height="30" width="40" /></a>
