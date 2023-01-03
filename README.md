@@ -1,17 +1,13 @@
-<h1 align="center">Hi 👋, I'm Gautam2s0</h1>
+<h1 align="center">Hi 👋, I'm Gautam Sonakar</h1>
 <h3 align="center">Analytical and detailed-oriented aspiring Full-Stack web developer.</h3>
 
 - 🔭 I’m currently working on [proper-loaf-7097](https://github.com/Gautam2s0/proper-loaf-7097)
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 PortFolio [https://gautam2s0.github.io/](https://gautam2s0.github.io/)
-
 - 💬 Ask me about **react,redux**
 
 - 📫 How to reach me **gautamsonkar334@gmail.com**
-
-- 📄 Know about my experiences [http://localhost:3000/resume](http://localhost:3000/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
