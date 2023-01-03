@@ -12,6 +12,8 @@
 - 🌱 I’m actively looking for opportunities**
 
 - 📫 How to reach me **gautamsonkar334@gmail.com**
+- <a href="">PortFolio</a>
+- <a href="">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
