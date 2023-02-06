@@ -25,8 +25,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gautam2s0" alt="gautam2s0" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gautam2s0&show_icons=true&locale=en&layout=compact" alt="gautam2s0" /></p>
+<div display="grid" grid-tempalte-column="1fr 1fr">
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gautam2s0&show_icons=true&locale=en&layout=compact" alt="gautam2s0" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gautam2s0&show_icons=true&locale=en" alt="gautam2s0" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gautam2s0&" alt="gautam2s0" /></p>
+
+
+</div>
