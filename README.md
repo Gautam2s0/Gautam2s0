@@ -66,7 +66,7 @@
 </p>
 
 <p>
-  <a><img align="left" width="55%" src="https://github-readme-stats.vercel.app/api/top-langs?username=gautam2s0&show_icons=true&locale=en&layout=compact" alt="gautam2s0" /></a>
+  <a><img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=gautam2s0&show_icons=true&locale=en&layout=compact" alt="gautam2s0" /></a>
 
 <a>&nbsp;<img align="right" width="43%" src="https://github-readme-stats.vercel.app/api?username=gautam2s0&show_icons=true&locale=en" alt="gautam2s0" /></a>
 
