@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [lenskart](https://github.com/akshay123332/fun-trees-7619)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Mern**
 
 - 💬 Ask me about **react,redux**
 
@@ -54,7 +54,7 @@
     <img color="white" src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" alt="express" width="40" height="40"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+    <img src="https://miro.medium.com/max/1200/0*GTTsEc-bsWoqcOoM.gif" alt="mongodb" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
