@@ -3,7 +3,7 @@
 <img src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/167121800/original/91edbdbc9875196cc50f56337f4e1aea00534b12/your-awesome-mern-stack-developer.jpg"/>
 <h3 align="center">Analytical and detailed-oriented aspiring Full-Stack web developer.</h3>
 
-- 🔭 I’m currently working on [proper-loaf-7097](https://github.com/Gautam2s0/proper-loaf-7097)
+- 🔭 I’m currently working on [lenskart](https://github.com/akshay123332/fun-trees-7619)
 
 - 🌱 I’m currently learning **React**
 
@@ -28,7 +28,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" display="flex" gap="20%">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" margin="10%">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
