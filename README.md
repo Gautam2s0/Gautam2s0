@@ -54,7 +54,7 @@
     <img color="white" src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" alt="express" width="80" height="80"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.pistalix.in/wp-content/uploads/2018/11/mongodb.gif" alt="mongodb" width="80" height="80"/>
+    <img src="https://media.licdn.com/dms/image/C4E12AQGLqQw-II-Sww/article-cover_image-shrink_600_2000/0/1628882237645?e=2147483647&v=beta&t=lEjrmMyduYlE6EWUoHfB89jaRfz84Qd-Q4LsDemIve0" alt="mongodb" width="80" height="80"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://media0.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif?cid=ecf05e470no9trasqeqdbjyuoz2ogmvkqprbqfn78o5kbyte&rid=giphy.gif&ct=s" alt="git" width="80" height="80"/>
