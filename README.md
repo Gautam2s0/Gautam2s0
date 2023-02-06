@@ -47,6 +47,10 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="80" height="80"/>
   </a>
+  <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://images.opencollective.com/chakra-ui-pro/61bd1dd/logo/256.png" alt="css3" width="80" height="80"/>
+  </a>
+  
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
     <img src="https://codetru.com/images/all/nodejsdis.gif" alt="nodejs" width="80" height="80"/>
   </a>
