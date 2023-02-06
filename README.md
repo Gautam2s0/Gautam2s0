@@ -32,7 +32,7 @@
     <img src="https://media4.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif?cid=6c09b9526hk9dkomtbxffssgc0c0smge4bzrnbaemr7oduk4&rid=giphy.gif&ct=s" alt="html5" width="80" height="80"/>
   </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+    <img src="https://media1.giphy.com/media/w7j1Bivh2hvIbhDYO8/giphy.gif?cid=ecf05e471nwzn4ecgimh8u4xqucdt7sm4rtnuz505w12j83k&rid=giphy.gif&ct=ts" alt="css3" width="80" height="80"/>
   </a>
    
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
@@ -42,22 +42,22 @@
     <img src="https://miro.medium.com/max/1400/0*EitUXT-pqbaQSCTt.gif" alt="react" width="80" height="80"/>
   </a> 
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="80" height="80"/>
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="80" height="80"/>
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
     <img src="https://codetru.com/images/all/nodejsdis.gif" alt="nodejs" width="80" height="80"/>
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img color="white" src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" alt="express" width="40" height="40"/>
+    <img color="white" src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" alt="express" width="80" height="80"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://www.pistalix.in/wp-content/uploads/2018/11/mongodb.gif" alt="mongodb" width="80" height="80"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+    <img src="https://media0.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif?cid=ecf05e470no9trasqeqdbjyuoz2ogmvkqprbqfn78o5kbyte&rid=giphy.gif&ct=s" alt="git" width="80" height="80"/>
   </a>
 </p>
 
