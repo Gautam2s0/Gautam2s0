@@ -39,7 +39,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://miro.medium.com/max/1400/1*KN7zbaWkbm5E71zZWfTf7A.gif" alt="react" width="40" height="40"/>
+    <img src="https://miro.medium.com/max/1400/1*KN7zbaWkbm5E71zZWfTf7A.gif" alt="react" width="80" height="80"/>
   </a> 
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
@@ -48,13 +48,13 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://codetru.com/images/all/nodejsdis.gif" alt="nodejs" width="40" height="40"/>
+    <img src="https://codetru.com/images/all/nodejsdis.gif" alt="nodejs" width="80" height="80"/>
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img color="white" src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" alt="express" width="40" height="40"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.pistalix.in/wp-content/uploads/2018/11/mongodb.gif" alt="mongodb" width="40" height="40"/>
+    <img src="https://www.pistalix.in/wp-content/uploads/2018/11/mongodb.gif" alt="mongodb" width="80" height="80"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
