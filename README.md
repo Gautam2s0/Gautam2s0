@@ -54,7 +54,7 @@
     <img color="white" src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" alt="express" width="40" height="40"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://miro.medium.com/max/1200/0*GTTsEc-bsWoqcOoM.gif" alt="mongodb" width="40" height="40"/>
+    <img src="https://media.licdn.com/dms/image/C4E12AQGLqQw-II-Sww/article-cover_image-shrink_600_2000/0/1628882237645?e=2147483647&v=beta&t=lEjrmMyduYlE6EWUoHfB89jaRfz84Qd-Q4LsDemIve0" alt="mongodb" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
