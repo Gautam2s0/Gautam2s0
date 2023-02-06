@@ -29,17 +29,17 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" display="flex" gap="20%">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" margin="10%">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+    <img src="https://media4.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif?cid=6c09b9526hk9dkomtbxffssgc0c0smge4bzrnbaemr7oduk4&rid=giphy.gif&ct=s" alt="html5" width="80" height="80"/>
   </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
    
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    <img src="https://media2.giphy.com/media/GZu3NtMoA6Lp2alLKk/giphy.gif?cid=ecf05e47tp0nkt4tb1gv672e4o78ng85oohqz2vc5wejojq7&rid=giphy.gif&ct=s" alt="javascript" width="80" height="80"/>
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://miro.medium.com/max/1400/1*KN7zbaWkbm5E71zZWfTf7A.gif" alt="react" width="80" height="80"/>
+    <img src="https://miro.medium.com/max/1400/0*EitUXT-pqbaQSCTt.gif" alt="react" width="80" height="80"/>
   </a> 
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
