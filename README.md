@@ -3,11 +3,10 @@
 <img src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/167121800/original/91edbdbc9875196cc50f56337f4e1aea00534b12/your-awesome-mern-stack-developer.jpg"/>
 <h3 align="center">Analytical and detailed-oriented aspiring Full-Stack web developer.</h3>
 
-- 🔭 I’m currently working on [lenskart](https://github.com/akshay123332/fun-trees-7619)
 
 - 🌱 I’m currently learning **Mern**
 
-- 💬 Ask me about **react,redux**
+- 💬 Ask me about **JavaScript,react,redux,MongoDD**
 
 - 📫 How to reach me **gautamsonkar334@gmail.com**
 - <a href="https://gautam2s0.github.io/">Portfolio</a>
