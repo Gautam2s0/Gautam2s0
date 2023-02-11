@@ -4,7 +4,7 @@
 <h3 align="center">Analytical and detailed-oriented aspiring Full-Stack web developer.</h3>
 
 
-- 🌱 I’m currently learning **Mern**
+- 🌱 I’m currently learning **MERN FULL STACK DEVELOPEMNT**
 
 - 💬 Ask me about **JavaScript,react,redux,MongoDD**
 
