@@ -1,4 +1,3 @@
-[![MasterHead](https://user-images.githubusercontent.com/40136017/134124139-172a975d-1cf3-4538-8049-8efab00e4489.png)]()
 <h1 align="center">Hi 👋, I'm Gautam Sonkar</h1>
 <h1>Student of Masai School !</h1>
 <img src="https://user-images.githubusercontent.com/40136017/134124139-172a975d-1cf3-4538-8049-8efab00e4489.png"/>
