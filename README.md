@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **gautamsonkar334@gmail.com**
 - <a href="https://gautam2s0.github.io/" target="_blank">Portfolio</a>
-- <a href="https://drive.google.com/file/d/1u3UPEmHehn0jkOfzhrUcpVFlKvQQnUpP/view?usp=sharing" target="blank">Resume</a>
+- <a href="https://drive.google.com/file/d/1axU6Z7MoylN3FbQLXkbRQbehuAsaPuPT/view?usp=sharing" target="blank">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
