@@ -9,8 +9,8 @@
 - 💬 Ask me about **JavaScript,react,MongoDB**
 
 - 📫 How to reach me **gautamsonkar334@gmail.com**
-- <a href="https://gautam2s0.github.io/">Portfolio</a>
-- <a href="https://drive.google.com/file/d/1u3UPEmHehn0jkOfzhrUcpVFlKvQQnUpP/view?usp=sharing">Resume</a>
+- <a href="https://gautam2s0.github.io/" target="blank">Portfolio</a>
+- <a href="https://drive.google.com/file/d/1u3UPEmHehn0jkOfzhrUcpVFlKvQQnUpP/view?usp=sharing" target="blank">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
