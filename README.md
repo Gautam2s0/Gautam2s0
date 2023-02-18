@@ -40,7 +40,7 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://miro.medium.com/max/1400/0*EitUXT-pqbaQSCTt.gif" alt="react" width="80" height="80"/>
   </a> 
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
+  <a href="https://redux.js.org" target="_blank" > 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="80" height="80"/>
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
