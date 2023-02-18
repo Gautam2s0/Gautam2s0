@@ -9,12 +9,12 @@
 - 💬 Ask me about **JavaScript,react,MongoDB**
 
 - 📫 How to reach me **gautamsonkar334@gmail.com**
-- <link href="https://gautam2s0.github.io/" target="_blank">Portfolio</link>
+- <a href="https://gautam2s0.github.io/" target="_blank">Portfolio</a>
 - <a href="https://drive.google.com/file/d/1u3UPEmHehn0jkOfzhrUcpVFlKvQQnUpP/view?usp=sharing" target="blank">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/gautam-sonkar-330899199" target="blank">
+<a href="https://linkedin.com/in/gautam-sonkar-330899199" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautam-sonkar-330899199" height="30" width="40" />
   </a>
 <a href="https://www.hackerrank.com/gautamsonkar334" target="blank">
@@ -30,7 +30,7 @@
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" margin="10%">
     <img src="https://media4.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif?cid=6c09b9526hk9dkomtbxffssgc0c0smge4bzrnbaemr7oduk4&rid=giphy.gif&ct=s" alt="html5" width="80" height="80"/>
   </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="next"> 
     <img src="https://media1.giphy.com/media/w7j1Bivh2hvIbhDYO8/giphy.gif?cid=ecf05e471nwzn4ecgimh8u4xqucdt7sm4rtnuz505w12j83k&rid=giphy.gif&ct=ts" alt="css3" width="80" height="80"/>
   </a>
    
