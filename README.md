@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gautam Sonkar</h1>
 <h1>Student of Masai School !</h1>
 <!-- <img src="https://user-images.githubusercontent.com/40136017/134124139-172a975d-1cf3-4538-8049-8efab00e4489.png"/> -->
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--WLCxLHaG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ouzz1vdmg4v8nqsimpqe.gif"/>
+<img src="https://camo.githubusercontent.com/e4a569755580f96dce0e6d65bc761e0d9aef0fecae524ec73a1b0be60fc934fa/68747470733a2f2f7777772e6d79676f2e67652f75706c6f6164732f626c6f672f313538343032333739352e6a7067" width="100%"/>
 
 <h3 align="center">Analytical and detailed-oriented aspiring Full-Stack web developer.</h3>
 <p align="center"> collaborative, team player who is proficient in working with interdisciplinary teams and executing goal-oriented projects.</p>
