@@ -2,6 +2,7 @@
 <h1>Student of Masai School !</h1>
 <img src="https://user-images.githubusercontent.com/40136017/134124139-172a975d-1cf3-4538-8049-8efab00e4489.png"/>
 <h3 align="center">Analytical and detailed-oriented aspiring Full-Stack web developer.</h3>
+<p align="center"> collaborative, team player who is proficient in working with interdisciplinary teams and executing goal-oriented projects.</p>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 
