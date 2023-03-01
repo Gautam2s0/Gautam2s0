@@ -79,5 +79,5 @@
 
 </p>
 <p margin="5%" background="red">
-  <img align="left" margin="5%"  width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=gautam2s0&" alt="gautam2s0" />
+  <img align="left" margin="45%"  width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=gautam2s0&" alt="gautam2s0" />
 </p>
