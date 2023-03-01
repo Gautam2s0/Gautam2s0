@@ -78,6 +78,6 @@
 <a>&nbsp;<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=gautam2s0&show_icons=true&locale=en" alt="gautam2s0" /></a>
 
 </p>
-<p margin="5%" background="red">
-  <img align="left" marginTop="5%"   src="https://github-readme-streak-stats.herokuapp.com/?user=gautam2s0&" alt="gautam2s0" />
+<p >
+  <img align="left"    src="https://github-readme-streak-stats.herokuapp.com/?user=gautam2s0&" alt="gautam2s0" />
 </p>
