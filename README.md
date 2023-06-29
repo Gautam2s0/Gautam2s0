@@ -66,7 +66,7 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://www.thoughtwin.com/assets/img/Python_img.gif" alt="python" width="80" height="80"/>
   </a>
-  
+   
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer" >
     <img src="https://media0.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif?cid=ecf05e470no9trasqeqdbjyuoz2ogmvkqprbqfn78o5kbyte&rid=giphy.gif&ct=s" alt="git" width="80" height="80"/>
   </a>
