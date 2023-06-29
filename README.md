@@ -63,6 +63,10 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://miro.medium.com/max/1200/0*GTTsEc-bsWoqcOoM.gif" alt="mongodb" width="80" height="80"/>
   </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://assets-global.website-files.com/5e9aa66fd3886aa2b4ec01ca/6333e68e8637e4daa21168ab_giphy%20(3).gif" alt="mongodb" width="80" height="80"/>
+  </a>
+  
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer" >
     <img src="https://media0.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif?cid=ecf05e470no9trasqeqdbjyuoz2ogmvkqprbqfn78o5kbyte&rid=giphy.gif&ct=s" alt="git" width="80" height="80"/>
   </a>
