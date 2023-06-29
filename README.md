@@ -55,7 +55,7 @@
   </a>
   
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://codetru.com/images/all/nodejsdis.gif" alt="nodejs" width="80" height="80"/>
+    <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" alt="nodejs" width="80" height="80"/>
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img color="white" src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" alt="express" width="80" height="80"/>
@@ -85,3 +85,4 @@
 <p >
   <img align="left" width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=gautam2s0&" alt="gautam2s0" />
 </p>
+![Logo Dark](https://image-link.png#gh-dark-mode-only)
