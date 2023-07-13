@@ -9,10 +9,9 @@
 
 
 - 🌱 I’m currently learning **MERN FULL STACK DEVELOPEMNT**
-- 
 
 - 💬 Ask me about **JavaScript,react,MongoDB**
-- 
+
 
 - 📫 How to reach me **gautamsonkar334@gmail.com**
 - <a href="https://gautam2s0.github.io/" target="_blank">Portfolio</a>
