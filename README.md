@@ -33,7 +33,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" display="flex" gap="20%">
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer" margin="10%">
-    <img src="https://nareshit.com/wp-content/uploads/2018/08/C-Programming-online-training-nareshit.jpg" alt="C" width="80" height="80"/>
+    <img src="https://t3.ftcdn.net/jpg/02/94/63/76/240_F_294637633_4eBaHE24EgCSo75m6PuEe5aMFBA5Pe2J.jpg" alt="C" width="80" height="80"/>
   </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" margin="10%">
     <img src="https://media4.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif?cid=6c09b9526hk9dkomtbxffssgc0c0smge4bzrnbaemr7oduk4&rid=giphy.gif&ct=s" alt="html5" width="80" height="80"/>
