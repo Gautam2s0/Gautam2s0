@@ -37,6 +37,9 @@
   </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://media2.giphy.com/media/GZu3NtMoA6Lp2alLKk/giphy.gif?cid=ecf05e47tp0nkt4tb1gv672e4o78ng85oohqz2vc5wejojq7&rid=giphy.gif&ct=s" alt="javascript" width="80" height="80"/>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://www.thoughtwin.com/assets/img/Python_img.gif" alt="python" width="80" height="80"/>
+  </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" margin="10%">
     <img src="https://media4.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif?cid=6c09b9526hk9dkomtbxffssgc0c0smge4bzrnbaemr7oduk4&rid=giphy.gif&ct=s" alt="html5" width="80" height="80"/>
   </a> 
@@ -68,9 +71,7 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://miro.medium.com/max/1200/0*GTTsEc-bsWoqcOoM.gif" alt="mongodb" width="80" height="80"/>
   </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://www.thoughtwin.com/assets/img/Python_img.gif" alt="python" width="80" height="80"/>
-  </a>
+  
    
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer" >
     <img src="https://media0.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif?cid=ecf05e470no9trasqeqdbjyuoz2ogmvkqprbqfn78o5kbyte&rid=giphy.gif&ct=s" alt="git" width="80" height="80"/>
