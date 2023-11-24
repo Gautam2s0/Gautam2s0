@@ -35,6 +35,8 @@
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer" margin="10%">
     <img src="https://t3.ftcdn.net/jpg/02/94/63/76/240_F_294637633_4eBaHE24EgCSo75m6PuEe5aMFBA5Pe2J.jpg" alt="C" width="80" height="80"/>
   </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://media2.giphy.com/media/GZu3NtMoA6Lp2alLKk/giphy.gif?cid=ecf05e47tp0nkt4tb1gv672e4o78ng85oohqz2vc5wejojq7&rid=giphy.gif&ct=s" alt="javascript" width="80" height="80"/>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" margin="10%">
     <img src="https://media4.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif?cid=6c09b9526hk9dkomtbxffssgc0c0smge4bzrnbaemr7oduk4&rid=giphy.gif&ct=s" alt="html5" width="80" height="80"/>
   </a> 
@@ -42,8 +44,7 @@
     <img src="https://media1.giphy.com/media/w7j1Bivh2hvIbhDYO8/giphy.gif?cid=ecf05e471nwzn4ecgimh8u4xqucdt7sm4rtnuz505w12j83k&rid=giphy.gif&ct=ts" alt="css3" width="80" height="80"/>
   </a>
    
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://media2.giphy.com/media/GZu3NtMoA6Lp2alLKk/giphy.gif?cid=ecf05e47tp0nkt4tb1gv672e4o78ng85oohqz2vc5wejojq7&rid=giphy.gif&ct=s" alt="javascript" width="80" height="80"/>
+  
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://miro.medium.com/max/1400/0*EitUXT-pqbaQSCTt.gif" alt="react" width="80" height="80"/>
